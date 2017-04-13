@@ -4,8 +4,8 @@
 
   "tivos": [
     {
-      "name": "<box name>",
-      "address": "<IP address>",
+      "name": "<Living Room>",
+      "address": "10.107.175.95",
       "port": 31339,
       "mini": false,
       "netflix": true,
