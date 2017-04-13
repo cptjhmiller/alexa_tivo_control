@@ -51,5 +51,5 @@
   "txt_genrecard": "Here's a list of genres you can use to filter your channel list.",
   "txt_genrefooter": "\n\nYou can customize this list by editing the genres string in constants.json.",
 
-  "alexaTestAppId": "amzn1.echo-sdk-ams.app.000000-d0ed-0000-ad00-000000d00ebe"
+  "alexaTestAppId": "amzn1.ask.skill.0f41825a-726d-4be4-851d-cabf25325917"
 }
